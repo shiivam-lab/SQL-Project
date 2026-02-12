@@ -1,2 +1,4 @@
 # SQL-Project
-SQL project analyzing bookstore sales data using relational tables. Covers data loading, joins, aggregations, subqueries, window functions, and time-based analysis to explore sales trends, customer behavior, inventory status, and revenue insights through real-world business queries.
+This project focuses on analyzing bookstore sales data using SQL to answer real business questions related to sales, customers, and inventory.
+
+The database is designed using relational tables and queried to uncover trends, customer behavior, revenue patterns, and stock performance.
